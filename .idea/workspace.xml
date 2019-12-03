@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="4ab9474a-1a05-44b7-bef3-4a3de4ceeb87" name="Default Changelist" comment="Создание новой группы, передача параметров в методы">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/group.py" beforeDir="false" afterPath="$PROJECT_DIR$/group.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group_application.py" beforeDir="false" afterPath="$PROJECT_DIR$/application.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_add_contact.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_add_contact.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_add_group.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_add_group.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -194,7 +195,28 @@
       <option name="project" value="LOCAL" />
       <updated>1575030488701</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ДЗ 1.3. Создание нового контакта, вспомогательные методы и классы">
+      <created>1575040792076</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1575040792076</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ДЗ 4.2. Перевод тестов про создание группы на py.test, реализация фикстур">
+      <created>1575217083044</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1575217083044</updated>
+    </task>
+    <task id="LOCAL-00015" summary="ДЗ 2.4. Перевод тестов про создание контакта на py.test, реализация фикстур">
+      <created>1575217149483</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1575217149483</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,6 +245,9 @@
     <MESSAGE value="Создание нового контакта" />
     <MESSAGE value="Создание нового контакта, создание вспомогательных методов" />
     <MESSAGE value="Создание нового контакта, передача параметров в методы" />
-    <option name="LAST_COMMIT_MESSAGE" value="Создание нового контакта, передача параметров в методы" />
+    <MESSAGE value="ДЗ 1.3. Создание нового контакта, вспомогательные методы и классы" />
+    <MESSAGE value="ДЗ 4.2. Перевод тестов про создание группы на py.test, реализация фикстур" />
+    <MESSAGE value="ДЗ 2.4. Перевод тестов про создание контакта на py.test, реализация фикстур" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 2.4. Перевод тестов про создание контакта на py.test, реализация фикстур" />
   </component>
 </project>
