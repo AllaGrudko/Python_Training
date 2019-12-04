@@ -4,7 +4,6 @@
     <list default="true" id="4ab9474a-1a05-44b7-bef3-4a3de4ceeb87" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fixture/application.py" beforeDir="false" afterPath="$PROJECT_DIR$/fixture/application.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_add_contact.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_add_contact.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/test_add_group.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_add_group.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_add_contact.py">
+  <component name="RunManager" selected="Python tests.pytest in test_add_group.py">
     <configuration default="true" type="tests" factoryName="py.test">
       <module name="Python_Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,8 +117,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in test_add_contact.py" />
         <item itemvalue="Python tests.pytest in test_add_group.py" />
+        <item itemvalue="Python tests.pytest in test_add_contact.py" />
         <item itemvalue="Python tests.pytest in test" />
       </list>
     </recent_temporary>
@@ -254,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575449481101</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Выделен класс для управления сессиями">
+      <created>1575452221171</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1575452221171</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,6 +294,7 @@
     <MESSAGE value="ДЗ 2.4. Перевод тестов про создание контакта на py.test, реализация фикстур" />
     <MESSAGE value="2. Задание №4: Перевести тесты с unittest на py.test и реализовать фикстуры" />
     <MESSAGE value="Созданы пакеты для разных зон ответственности" />
-    <option name="LAST_COMMIT_MESSAGE" value="Созданы пакеты для разных зон ответственности" />
+    <MESSAGE value="Выделен класс для управления сессиями" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выделен класс для управления сессиями" />
   </component>
 </project>
