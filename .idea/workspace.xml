@@ -27,7 +27,7 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test_add_group.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -50,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_del_contact.py">
+  <component name="RunManager" selected="Python tests.pytest in test_del_group.py">
     <configuration default="true" type="tests" factoryName="py.test">
       <module name="Python_Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,7 +116,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -150,8 +150,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in test_del_contact.py" />
         <item itemvalue="Python tests.pytest in test_del_group.py" />
+        <item itemvalue="Python tests.pytest in test_del_contact.py" />
         <item itemvalue="Python tests.pytest in test_add_group.py" />
         <item itemvalue="Python tests.pytest in test_add_contact.py" />
         <item itemvalue="Python tests.pytest in test_info.py" />
@@ -428,7 +428,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579363431741</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="5. Задание №16 : Реализовать опции командной строки, позволяющие указывать тип браузера и адрес тестируемого приложения">
+      <created>1579364045025</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1579364045025</updated>
+    </task>
+    <task id="LOCAL-00039" summary="5. Задание №16 : Реализовать опции командной строки, позволяющие указывать тип браузера и адрес тестируемого приложения">
+      <created>1579364087121</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1579364087121</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -445,7 +459,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ДЗ 1.3. Создание нового контакта, вспомогательные методы и классы" />
     <MESSAGE value="ДЗ 4.2. Перевод тестов про создание группы на py.test, реализация фикстур" />
     <MESSAGE value="ДЗ 2.4. Перевод тестов про создание контакта на py.test, реализация фикстур" />
     <MESSAGE value="2. Задание №4: Перевести тесты с unittest на py.test и реализовать фикстуры" />
@@ -470,7 +483,8 @@
     <MESSAGE value="5. Задание №14: Реализовать проверки для всех полей контакта на главной странице" />
     <MESSAGE value="5. Задание №15: Параметризовать тесты для создания групп и контактов" />
     <MESSAGE value="5. Задание №16: Реализовать опции командной строки, позволяющие указывать тип браузера и адрес тестируемого приложения" />
-    <option name="LAST_COMMIT_MESSAGE" value="5. Задание №16: Реализовать опции командной строки, позволяющие указывать тип браузера и адрес тестируемого приложения" />
+    <MESSAGE value="5. Задание №16 : Реализовать опции командной строки, позволяющие указывать тип браузера и адрес тестируемого приложения" />
+    <option name="LAST_COMMIT_MESSAGE" value="5. Задание №16 : Реализовать опции командной строки, позволяющие указывать тип браузера и адрес тестируемого приложения" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
