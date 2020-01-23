@@ -4,8 +4,10 @@
     <list default="true" id="4ab9474a-1a05-44b7-bef3-4a3de4ceeb87" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/add_contact.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/contacts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/add_group.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/groups.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/contacts.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/contacts.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/groups.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/groups.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generator/contact.py" beforeDir="false" afterPath="$PROJECT_DIR$/generator/contact.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generator/group.py" beforeDir="false" afterPath="$PROJECT_DIR$/generator/group.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target.json" beforeDir="false" afterPath="$PROJECT_DIR$/target.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/test_add_contact.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_add_contact.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/test_add_group.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_add_group.py" afterDir="false" />
@@ -54,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_add_contact.py">
+  <component name="RunManager" selected="Python.contact">
     <configuration name="contact" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,7 +70,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generator/contact.py" />
-      <option name="PARAMETERS" value="-n 10 -f data/test.json" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -89,7 +91,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generator/group.py" />
-      <option name="PARAMETERS" value="-n 10 -f data/test.json" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -166,9 +168,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.contact" />
         <item itemvalue="Python tests.pytest in test_add_contact.py" />
         <item itemvalue="Python tests.pytest in test_add_group.py" />
-        <item itemvalue="Python.contact" />
         <item itemvalue="Python.group" />
         <item itemvalue="Python tests.pytest in test_del_group.py" />
       </list>
@@ -472,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579685599147</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="динамическая генерация тестов">
+      <created>1579769275918</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1579769275918</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -489,7 +498,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2. Задание №4: Перевести тесты с unittest на py.test и реализовать фикстуры" />
     <MESSAGE value="Созданы пакеты для разных зон ответственности" />
     <MESSAGE value="Выделен класс для управления сессиями" />
     <MESSAGE value="Выделен класс для работы с группами" />
@@ -514,7 +522,8 @@
     <MESSAGE value="5. Задание №16 : Реализовать опции командной строки, позволяющие указывать тип браузера и адрес тестируемого приложения" />
     <MESSAGE value="6. Задание №17: Реализовать загрузку информации о тестируемом приложении из конфигурационного файла" />
     <MESSAGE value="6. Задание №18: Реализовать генераторы тестовых данных" />
-    <option name="LAST_COMMIT_MESSAGE" value="6. Задание №18: Реализовать генераторы тестовых данных" />
+    <MESSAGE value="динамическая генерация тестов" />
+    <option name="LAST_COMMIT_MESSAGE" value="динамическая генерация тестов" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
